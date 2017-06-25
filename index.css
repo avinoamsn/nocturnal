@@ -1,0 +1,22 @@
+body {
+    font-family: Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif;
+    background-color:#EDEDED;
+}
+
+#wrapper {
+	text-align: center;
+	height: 90vh;
+}
+
+#content {
+	position: relative;
+	top: 50%;
+  	transform: translateY(-50%);
+    display: block;
+}
+
+#footer {
+	position: relative;
+    top: 87%;
+    display: block;
+}
